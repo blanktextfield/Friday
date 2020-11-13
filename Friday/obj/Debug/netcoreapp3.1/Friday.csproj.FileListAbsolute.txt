@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.exe
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.deps.json
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.runtimeconfig.json
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.dll
+C:\Users\mammu\source\repos\Friday\Friday\bin\Debug\netcoreapp3.1\Friday.pdb
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.AssemblyInfo.cs
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.dll
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.pdb
+C:\Users\mammu\source\repos\Friday\Friday\obj\Debug\netcoreapp3.1\Friday.genruntimeconfig.cache
